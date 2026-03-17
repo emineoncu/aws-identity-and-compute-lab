@@ -2,10 +2,11 @@
 [CH-1-Demonstrate use of Identity and Access Management features in AWS.pdf](https://github.com/user-attachments/files/26067638/CH-1-Demonstrate.use.of.Identity.and.Access.Management.features.in.AWS.pdf)
 
 
+
 # AWS Identity and Compute Lab
 Hands-on AWS project simulating real-world Cloud Support tasks.
-
 IAM, EC2, and basic cloud compute setup with security configurations
+
 ## Overview
 This project demonstrates hands-on Cloud Support skills using AWS, focusing on identity management, compute deployment, and basic security configuration.
 
