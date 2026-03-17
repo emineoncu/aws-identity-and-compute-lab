@@ -5,30 +5,44 @@ IAM, EC2, and basic cloud compute setup with security configurations
 
 # AWS Identity and Compute Lab
 ## Overview
-This project demonstrates core AWS cloud support skills including IAM configuration, EC2 deployment, and basic security setup.
+This project demonstrates hands-on cloud support skills using AWS.  
+I configured identity management, deployed a web server on EC2, and applied basic security controls.
+
+## Architecture
+This setup includes IAM for access control and EC2 for compute, secured with Security Groups.
 
 ## What I Built
 - Created IAM users, groups, and policies
+- Configured secure access permissions
 - Launched EC2 instance
-- Configured security groups (firewall rules)
-- Deployed Apache web server
-- Connected via SSH
+- Set up Security Groups (firewall rules)
+- Deployed Apache Web Server
+- Connected to the instance via SSH
 
 ## AWS Services Used
 - IAM
 - EC2
 - Security Groups
 
-## Key Cloud Support Skills
-- User access management
-- Instance deployment and configuration
+## Key Cloud Support Skills Demonstrated
+- User access management (IAM)
+- EC2 deployment and configuration
 - Basic network security setup
-- Troubleshooting EC2 connectivity
+- Troubleshooting instance connectivity
 
 ## Screenshots
-(Add your screenshots here)
+
+### EC2 Instance Running
+<img width="1675" height="855" alt="image" src="https://github.com/user-attachments/assets/5cf00511-fa74-4d17-b59f-025ecf7f93ca" />
+
+
+### IAM Configuration
+(Add image)
+
+### Apache Web Server
+(Add image)
 
 ## What I Learned
-- How IAM controls access securely
-- How EC2 instances are configured and accessed
-- How to troubleshoot connection issues
+- How IAM controls secure access in AWS
+- How to deploy and manage EC2 instances
+- How to troubleshoot access and connectivity issues
