@@ -1,3 +1,5 @@
+[CH-2 Create a Web Based application hosted on Apache Web Server on EC2.pdf](https://github.com/user-attachments/files/26067671/CH-2.Create.a.Web.Based.application.hosted.on.Apache.Web.Server.on.EC2.pdf)
+[CH-1-Demonstrate use of Identity and Access Management features in AWS.pdf](https://github.com/user-attachments/files/26067638/CH-1-Demonstrate.use.of.Identity.and.Access.Management.features.in.AWS.pdf)
 # aws-identity-and-compute-lab
 IAM, EC2, and basic cloud compute setup with security configurations
 
