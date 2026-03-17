@@ -2,33 +2,45 @@
 [CH-1-Demonstrate use of Identity and Access Management features in AWS.pdf](https://github.com/user-attachments/files/26067638/CH-1-Demonstrate.use.of.Identity.and.Access.Management.features.in.AWS.pdf)
 # aws-identity-and-compute-lab
 IAM, EC2, and basic cloud compute setup with security configurations
-
+Hands-on AWS project simulating real-world Cloud Support tasks.
 # AWS Identity and Compute Lab
+
 ## Overview
-This project demonstrates hands-on cloud support skills using AWS.  
-I configured identity management, deployed a web server on EC2, and applied basic security controls.
+This project demonstrates hands-on Cloud Support skills using AWS, focusing on identity management, compute deployment, and basic security configuration.
+
+In this lab, I built and configured a secure AWS environment by managing user access, deploying a web server, and applying network security rules.
+
+---
 
 ## Architecture
-This setup includes IAM for access control and EC2 for compute, secured with Security Groups.
+The architecture includes IAM for identity and access management and EC2 for compute resources, secured using Security Groups.
+
+---
 
 ## What I Built
-- Created IAM users, groups, and policies
-- Configured secure access permissions
-- Launched EC2 instance
-- Set up Security Groups (firewall rules)
-- Deployed Apache Web Server
-- Connected to the instance via SSH
+- Created IAM users, groups, and policies to manage access securely
+- Configured role-based permissions
+- Launched and configured an EC2 instance
+- Set up Security Groups to control inbound/outbound traffic
+- Installed and configured Apache Web Server
+- Connected to EC2 instance via SSH
+
+---
 
 ## AWS Services Used
 - IAM
 - EC2
 - Security Groups
 
+---
+
 ## Key Cloud Support Skills Demonstrated
-- User access management (IAM)
+- Identity and access management (IAM)
 - EC2 deployment and configuration
-- Basic network security setup
-- Troubleshooting instance connectivity
+- Network security configuration (Security Groups)
+- Troubleshooting EC2 access and connectivity issues
+
+---
 
 ## Screenshots
 
@@ -42,7 +54,9 @@ This setup includes IAM for access control and EC2 for compute, secured with Sec
 ### Apache Web Server
 <img width="1671" height="1005" alt="image" src="https://github.com/user-attachments/assets/7aa6f707-aaac-42c8-ba78-e91307cbc002" />
 
-## What I Learned
-- How IAM controls secure access in AWS
-- How to deploy and manage EC2 instances
-- How to troubleshoot access and connectivity issues
+---
+
+## Troubleshooting & Lessons Learned
+- Resolved SSH connection issues caused by incorrect security group rules
+- Fixed permission issues using IAM policies
+- Learned how to secure EC2 instances with proper firewall configuration
