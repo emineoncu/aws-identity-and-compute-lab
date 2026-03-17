@@ -1,7 +1,3 @@
-[CH-2 Create a Web Based application hosted on Apache Web Server on EC2.pdf](https://github.com/user-attachments/files/26067671/CH-2.Create.a.Web.Based.application.hosted.on.Apache.Web.Server.on.EC2.pdf)
-[CH-1-Demonstrate use of Identity and Access Management features in AWS.pdf](https://github.com/user-attachments/files/26067638/CH-1-Demonstrate.use.of.Identity.and.Access.Management.features.in.AWS.pdf)
-
-
 
 # AWS Identity and Compute Lab
 Hands-on AWS project simulating real-world Cloud Support tasks.
@@ -66,3 +62,6 @@ In this lab, I built and configured a secure AWS environment by managing user ac
 - Resolved SSH connection issues caused by incorrect security group rules
 - Fixed permission issues using IAM policies
 - Learned how to secure EC2 instances with proper firewall configuration
+
+[CH-2 Create a Web Based application hosted on Apache Web Server on EC2.pdf](https://github.com/user-attachments/files/26067671/CH-2.Create.a.Web.Based.application.hosted.on.Apache.Web.Server.on.EC2.pdf)
+[CH-1-Demonstrate use of Identity and Access Management features in AWS.pdf](https://github.com/user-attachments/files/26067638/CH-1-Demonstrate.use.of.Identity.and.Access.Management.features.in.AWS.pdf)
