@@ -37,10 +37,10 @@ This setup includes IAM for access control and EC2 for compute, secured with Sec
 
 
 ### IAM Configuration
-(Add image)
+<img width="1432" height="594" alt="image" src="https://github.com/user-attachments/assets/b382e508-fbe0-4cdb-9ee4-0bed71cf59e5" />
 
 ### Apache Web Server
-(Add image)
+<img width="1671" height="1005" alt="image" src="https://github.com/user-attachments/assets/7aa6f707-aaac-42c8-ba78-e91307cbc002" />
 
 ## What I Learned
 - How IAM controls secure access in AWS
