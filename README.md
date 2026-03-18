@@ -63,6 +63,8 @@ In this lab, I built and configured a secure AWS environment by managing user ac
 - Fixed permission issues using IAM policies
 - Learned how to secure EC2 instances with proper firewall configuration
 
+## Project Documentation
+
 - [IAM Configuration](https://github.com/user-attachments/files/26072052/aws-iam-configuration.pdf)
 
 - [EC2 Web Server Deployment](https://github.com/user-attachments/files/26067671/CH-2.Create.a.Web.Based.application.hosted.on.Apache.Web.Server.on.EC2.pdf)
